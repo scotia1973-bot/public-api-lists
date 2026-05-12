@@ -110,6 +110,7 @@
 |       [Noun Project](http://api.thenounproject.com/index.html)       | Icons                                                                         | `OAuth`  |  No   | Unknown |
 |           [Rijksmuseum](https://www.rijksmuseum.nl/en/api)           | Art                                                                           | `apiKey` |  Yes  | Unknown |
 |                    [svg.new](https://svg.new)                    | AI-powered image to SVG vectorization                                         | `apiKey` |  Yes  |   Yes   |
+|        [GadgetHumans QR Code API](https://api.gadgethumans.com)        | Customizable QR code generation with colors, logos, SVG/PNG output | `apiKey` |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
@@ -267,6 +268,7 @@
 |                      [vatlayer](https://vatlayer.com)                       | VAT number validation                                                 |    No    |  Yes  | Unknown |
 |                      [Veriphone](https://veriphone.io)                      | Phone number validation & carrier lookup                              | `apiKey` |  Yes  |   Yes   |
 |                   [VerifyEd](https://verifyed.org/docs)                    | Verify academic credentials — 912K+ schools, 2,592 diploma mills       | `apiKey` |  Yes  |   Yes   |
+| [GadgetHumans Email Verify API](https://email-verify.scotia1973.workers.dev) | Real-time email validation: syntax, MX, SMTP, disposable detection | `apiKey` |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
@@ -350,6 +352,7 @@
 |                              [XMLable](https://xmlable.com/validator/)                              | Validate XML                                                                                        |       No        |  Yes  |   Yes   |
 |                                 [Yamline](https://yamline.com/k8s/)                                 | Validate Kubernetes manifests                                                                       |       No        |  Yes  |   Yes   |
 |                                     [Zuplo](https://zuplo.com/)                                     | API platform for Development, Deployment, and Docs - add auth, rate-limiting, and monetization fast |    `apiKey`     |  Yes  |   Yes   |
+| [GadgetHumans API Hub](https://api.gadgethumans.com) | 8-in-1 utility API hub: QR codes, UUIDs, hashes, passwords, base64, lorem ipsum, JSON prettify, color conversion | `apiKey` |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
